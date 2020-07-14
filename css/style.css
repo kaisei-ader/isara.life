@@ -1,0 +1,96 @@
+@charset="utf-8";
+
+body{
+  margin:0;
+  padding:0;
+  font-size:16px;
+  width:100%;
+}
+.kaisei_blog{
+  text-align:cenert;
+  margin:0 auto;
+  margin-bottom:60px;
+}
+h2{
+  padding:30px;
+  text-align:center;
+  margin:0 auto;
+  background-color:#DDA0DD;
+  color:white;
+}
+.sample{
+  width:100%;
+}
+.sample img{
+  width:67.5%;
+  height:auto;
+}
+#main{
+width: calc(66.6666666667% - 16.6666666667px);
+float: left;
+margin-left: 10px;
+border:solid  10px #E6E6FA;
+}
+
+img{
+  max-width:100%;
+}
+.img_car{
+  align-items:center;
+  margin-top:30px;
+  margin-left:35px;
+}
+.span{
+  text-align:center;
+  margin:30px auto;
+  letter-spacing:4px;
+}
+.reason_content{
+background-color:#483D8B;
+color:white;
+}
+.reason_span{
+  font-size:22px;
+  font-weight:500;
+  padding:30px;
+  text-align:center;
+  margin:0 auto;
+}
+.span2{
+  margin-top:60px;
+  margin-bottom:40px;
+  text-align:center;
+  letter-spacing:10px;
+}
+
+ol{
+  display:block;
+  width:400px;
+  margin:0 auto;
+  background-color:#EEE8AA;
+  list-style:none;
+  text-align:center;
+  align-items:center;
+}
+ul li{
+  list-style:none;
+  text-align:center;
+  letter-spacing:7px;
+  font-weight:600;
+  padding:40px;
+  margin:0 auto;
+  align-aitems:center;
+}
+
+#sidebar {
+    width: calc(33.3333333333% - 26.6666666667px);
+    float: left;
+    margin-left: 20px;
+    max-width: 350.25px !important;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+}
+.list{
+border:solid  10px #E6E6FA;
+height:860px;
+}
